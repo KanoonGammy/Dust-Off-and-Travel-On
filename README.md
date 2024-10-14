@@ -30,7 +30,7 @@
 ![image](สตูล.png)
 
 
-
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;เดี่ยวจะมาเพิ่มเรื่องการตัดสินใจท่องเที่ยว ต่อข้อมูลที่มีแถวๆนี้ค่ะ
 
 #### สัดส่วนความเข้มข้นของฝุ่น PM 2.5 ที่เป็นอันตราย
 
